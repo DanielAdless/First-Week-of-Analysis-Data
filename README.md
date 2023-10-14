@@ -79,6 +79,7 @@ a) Data Type:
 • Quantitative Data: These are data that are numbers and can be measured and calculated. Examples include age, weight, income, and temperature.
 
 
+
 b) Data Characteristics:
 
 **Data has several important characteristics:**
@@ -94,20 +95,39 @@ b) Data Characteristics:
 • Completeness: Data must be complete, without missing information.
 
 
+
 c) Data Source:
 
 Data can come from a variety of sources, including surveys, sensors, databases, documents, the internet, and others. Data sources must be taken into account in data analysis.
 
-**Scale Data:**
 
-Quantitative data can be classified into different scales:
+**d) Data Skala:**
 
-• Nominal Scale: Qualitative data that can only be used to categorize. For example, gender or color.
+Data kuantitatif dapat diklasifikasikan ke dalam skala yang berbeda:
 
-• Ordinal scale: Qualitative data of order or degree. For example, customer satisfaction ratings.
+•	Skala Nominal: Data kualitatif yang hanya bisa digunakan untuk mengkategorikan. Misalnya, jenis kelamin atau warna.
 
-• Interval Scale: Quantitative data with measurable ranges, but without absolute zero. For example, temperatures in degrees Celsius.
+•	Skala Ordinal: Data kualitatif yang memiliki urutan atau tingkatan. Misalnya, peringkat kepuasan pelanggan.
 
-• Ratio Scale: Quantitative data with absolute zero and measurable ranges. For example, weight or income.
+•	Skala Interval: Data kuantitatif dengan rentang yang dapat diukur, tetapi tanpa nol mutlak. Misalnya, suhu dalam derajat Celsius.
+
+•	Skala Rasio: Data kuantitatif dengan nol mutlak dan rentang yang dapat diukur. Misalnya, berat badan atau pendapatan.
+
+
+e)  Quality Related Data:
+
+Good quality data must meet valid, reliable, and accurate data criteria. Data processing, including data clearing, is an important step in ensuring quality data.
+
+
+f)  Data in Analysis:
+
+Data is the raw material for data analysis. Data analysis involves the use of techniques and tools to gain insight from data, such as descriptive statistics, inferential analysis, and more sophisticated data analysis techniques such as machine learning.
+
+
+g)  The Importance of Data in Decision Making:
+
+
+Data is a good decision-making cornerstone. Decisions based on quality data can help organizations achieve goals, minimize risk, and optimize results.
+
 
 
