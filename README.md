@@ -70,7 +70,7 @@ Data Basics are basic concepts related to the understanding, type, and character
 Data is a representation of facts, information, or values that can be measured or calculated. Data may be numbers, text, images, sounds, or other formats. Data is used to record, store, and transmit information.
 
 
-a) Data Type:
+**a) Data Type:**
 
 • Data can be classified into two main types: qualitative data (text-based) and quantitative data (number-based).
 
@@ -80,7 +80,7 @@ a) Data Type:
 
 
 
-b) Data Characteristics:
+**b) Data Characteristics:**
 
 **Data has several important characteristics:**
 
@@ -96,7 +96,7 @@ b) Data Characteristics:
 
 
 
-c) Data Source:
+**c) Data Source:**
 
 Data can come from a variety of sources, including surveys, sensors, databases, documents, the internet, and others. Data sources must be taken into account in data analysis.
 
