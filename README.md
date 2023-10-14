@@ -133,3 +133,88 @@ Data is a good decision-making cornerstone. Decisions based on quality data can 
 
 
 
+# Data Manipulation
+
+Data manipulation is the process of processing, modifying, and transforming data to produce better and more useful insights. It involves a variety of techniques and operations to modify the data to suit the needs of a particular analysis or purpose
+
+
+**Here is a more detailed description of manipulation data:**
+
+
+**a) Import Data:**
+
+Data manipulation begins by importing data into the environment or software used for analysis. This data can be derived from various sources, such as spreadsheets, databases, text files, or data downloaded from the internet.
+
+
+**b) Information Extraction:**
+
+Once the data is imported, the first step is the extraction of relevant information. This can involve retrieving a subset of data needed for analysis or retrieval of a particular column or row.
+
+
+**c) Filtering Data:**
+
+Filtering data involves selecting data rows that meet certain criteria. For example, you can delete rows that contain invalid data or retrieve only data that meet certain thresholds.
+
+
+
+**d) Data Transformation:**
+
+Data transformation is an important step in data manipulation. These include changing data formats, combining data from multiple sources, normalizing data, and changing data types (such as converting string data into number data).
+
+
+**e) Data Column Add:**
+
+You can add new columns of data generated from calculations or operations to existing columns. Examples include calculating the total, average, or combining multiple columns into one.
+
+
+**f) Duplicate Data Deletion:**
+
+Identifying and deleting duplicate data is an important step in data manipulation. Duplicate data can affect analysis results if not handled correctly.
+
+
+
+**g) Data Aggregation:**
+
+Aggregation involves merging data into larger groups or categories that can provide more meaningful insight. For example, calculate the total sales per month.
+
+
+**h) Sorting Data:**
+
+Sorting data is organizing data by specific criteria, such as sorting data by date or numerical value. This simplifies data analysis and visualization.
+
+
+**i) Pivot Data:**
+
+Creating a pivot table is changing the data structure to present data in a different format. It is often used to summarize data in reports or dashboards.
+
+
+**j) Join Data:**
+
+Combining data from multiple sources or tables is an important part of data manipulation. You can merge data based on the same column or by using a unique key.
+
+
+**k) Data Visualization:**
+
+Visualization is a powerful way to visualize the results of manipulation data. It involves graph generation and data visualization to help understand and communicate the results of the analysis.
+
+
+**l) Data Export:**
+
+Once the manipulation data is complete, the processed data can be exported to a file or other format suitable for specific purposes.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
