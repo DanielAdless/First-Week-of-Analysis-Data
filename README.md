@@ -60,7 +60,7 @@ Data analysis results should be applied in an appropriate business context or si
 Data clearing, also known as data cleaning or data scrubbing, is the process of identifying, correcting, or removing errors and inconsistencies in data to ensure it is accurate, consistent, and reliable. This is a critical step in data preparation prior to analysis or use of such data in various applications.
 
 
-*Data clearing is an important process in data management that has a number of significant benefits:*
+**Data clearing is an important process in data management that has a number of significant benefits:**
 
 • Improved Data Accuracy: Clean data has a high level of accuracy. Eliminating errors and mismatches in data, such as typing errors, missing values, or duplicate data, helps to ensure that the data reflects the actual state. This makes data more reliable in decision making.
 
