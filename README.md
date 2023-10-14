@@ -207,7 +207,10 @@ Once the manipulation data is complete, the processed data can be exported to a 
 
 
 
+🌍 During the first week of this trip, I felt like I was going through an exciting adventure. Data Analysis debuted with the introduction of data - what data is, how data is collected, and why data is so valid in decision-making.💫
 
+
+🙆♂️I started with a descriptive analysis that leaves me a tool to summarize and explain data. I looked at the distribution of data, looked at the mean, the median, and created a simple visualization. The deeper I explore the world of Data Analysis, the more fascinated I am with its potential. I can't wait to go further and dig deeper into this science.💎
 
 
 
