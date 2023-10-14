@@ -114,17 +114,19 @@ Data kuantitatif dapat diklasifikasikan ke dalam skala yang berbeda:
 •	Skala Rasio: Data kuantitatif dengan nol mutlak dan rentang yang dapat diukur. Misalnya, berat badan atau pendapatan.
 
 
-e)  Quality Related Data:
+
+
+**e)  Quality Related Data:**
 
 Good quality data must meet valid, reliable, and accurate data criteria. Data processing, including data clearing, is an important step in ensuring quality data.
 
 
-f)  Data in Analysis:
+**f)  Data in Analysis:**
 
 Data is the raw material for data analysis. Data analysis involves the use of techniques and tools to gain insight from data, such as descriptive statistics, inferential analysis, and more sophisticated data analysis techniques such as machine learning.
 
 
-g)  The Importance of Data in Decision Making:
+**g)  The Importance of Data in Decision Making:**
 
 
 Data is a good decision-making cornerstone. Decisions based on quality data can help organizations achieve goals, minimize risk, and optimize results.
