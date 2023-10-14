@@ -207,6 +207,9 @@ Once the manipulation data is complete, the processed data can be exported to a 
 
 
 
+
+
+
 🌍 During the first week of this trip, I felt like I was going through an exciting adventure. Data Analysis debuted with the introduction of data - what data is, how data is collected, and why data is so valid in decision-making.💫
 
 
